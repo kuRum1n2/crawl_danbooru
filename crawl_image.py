@@ -5,7 +5,7 @@ import threading
 
 
 pre_url = "https://danbooru.donmai.us/"
-tags = "kamisato_ayaka"
+tags = ""
 start_page = 1
 end_page = 20
 
